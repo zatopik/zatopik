@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 (took seriously in 2025)<br>📚 I'm currently learning: Go<br>🎯 Goals: Get into backend development</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning: Go<br>🎯 Goals: Get into backend development</p>
 
 ###
 
