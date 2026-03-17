@@ -54,10 +54,3 @@
 </picture>
 
 ###
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/8qPT5HbAFxsAAAAi/pizza-roblox-studio.gif"  />
-</div>
-
-###
